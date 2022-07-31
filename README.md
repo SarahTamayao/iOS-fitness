@@ -8,8 +8,7 @@
 
 ## Overview
 ### Description
-A fitness app that allows the user to plan a daily routine, with videos available on the internet. It also allows the user to save videos from multiple platforms on this app from apps such as 
-    Instagram, Youtube, TikTok etc. 
+
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
